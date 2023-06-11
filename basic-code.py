@@ -2,10 +2,10 @@
 
 print("Hello World")
 print(123)
-print(True)
+print(True) # pour ècrire --True ou False--- il faut absoulement que le premier lettre être un Majuscul 
 print(False)
 
-# print ---- c'est pour faire sorti le contenu dans le terminal 
-# qeulque ce soit le contenu string ou number
+# print ---- c'est une function, pour faire sorti le contenu dans le terminal 
+# quelque ce soit le contenu string ou number
 
 
