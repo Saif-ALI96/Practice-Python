@@ -1,13 +1,22 @@
 # on quelque function qui peuvent être utile for nous, si nous voulons modifier le contenu 
 # par exemple 
 
-# 01 le function// UPPER() ----> pour mettre les lettre en Majuscul 
-# 02 le function// LOWER() ----> pour mettre les lettre en Minuscul
-# 03 le function// LEN() ----> pour mettre la longueur de la chaîne de caractére
-# 04 le function// SUBSTR() ----> pour extraire une partie de la chaîne de caractére
-# 05 le function// TRIM() ----> pour supprimer les espaces en début et fin
+# 01 le function// upper ----> pour mettre les lettre en Majuscul 
+# 02 le function// isupper() ----> pour voir si la caractére en Majuscul. le resultat est toujours
+#  en boolean, c'est à dire (True ou False).
+
+# 03 le function// LOWER() ----> pour mettre les lettre en Minuscul
+# 04 le function// islower() ----> pour voir si la caractère en Miniscul. le resultat est toujours
+#  en boolean, c'est à dire (True ou False).
+
+# 05 le function// LEN() ----> pour mettre la longueur de la chaîne de caractére
+
+# 06 le function// SUBSTR() ----> pour extraire une partie de la chaîne de caractére
+
+# 07 le function// TRIM() ----> pour supprimer les espaces en début et fin
 #   de la chaîne de caractére
-# 06 le function// REPLACE() ----> pour remplacer une chaîne de caractére par
+
+# 08 le function// REPLACE() ----> pour remplacer une chaîne de caractére par
 #   une autre chaîne de caractére
 
 test = "hello"
