@@ -23,6 +23,12 @@
 
 #10 le function// .title() ----> pour mettre  la premiere lettre de chaque mot en Majuscul
 
+#11 le function// .split() -----> pour separer les objets comme dands le tableau dans 
+#  double virgule ("").
+
+#12 le function// .rsplit() -----> c'est le même fonctionnement de .split(), 
+#   mais il va partir de la droite vers la gauche.
+
 
 test = "hello"
 print(test.upper()) # on va avoir "HELLO" en Majuscul
