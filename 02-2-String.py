@@ -54,3 +54,4 @@ print(test4[0:3]) # on va avoir "hel
 
 test5 = " hello "
 print(test5.strip()) # on va avoir "hello"
+
