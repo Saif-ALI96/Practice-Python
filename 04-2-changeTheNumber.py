@@ -1,5 +1,4 @@
-#là , nous allons voir comment peut on changer les number vers string 
-#et l'inverse 
+#là , nous allons voir comment peut on changer les numbres vers string ou l'inverse 
 
 #function float() -----> return number float 
 #function str() ----> return "string"
