@@ -17,34 +17,3 @@
 #b= {'java','php'} #Crée une autre liste avec deux éléments uniques ('java'and 'php')
 #print(type(b)) #---><class'set'>
 
-#Les fonctions suivantes permettent de manipuler facilement nos sets :
-#add() permet d'ajouter un élément à un set existant ; 
-# remove() permet de retirer un élément du set; 
-# clear()efface tout le set ; copy() crée une copie d'un set ; 
-# update() met à jour un set par rapport à un autre set; 
-# pop() retourne un élément aléatoire du set ;
-#  discard() retire un élément spécifique du set
-
-#Exemples :
-A = {10,'python',25}
-
-A.update([67])
-print(A)
-#--> {67, 25, 10, 'python'}
-A.discard(25)
-print(A)
-#--> {67, 10, 'python'}
-A.clear()
-print(A)
-#--> set{}
-
-B=[10,25]
-B.remove(25)
-print(B)
-#--> [10]
-#La fonction len() renvoit le nombre d'objets contenus dans un set.
-#Exemple :
-
-C = {10,12,45,67,25}
-print("Le nombre d'éléments dans mon set est:",len(C))
-#--> Le nombre d'éléments dans mon set est: 5
