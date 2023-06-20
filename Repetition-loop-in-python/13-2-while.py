@@ -5,3 +5,39 @@
 
 #Exemple:
 
+#index = 0
+#while index <= 6 :
+#    print(index)
+#    index = index + 1
+#0
+#1
+#2
+#3
+#4
+#5
+#6
+
+#On peut aussi utiliser des conditions dans les while pour s'arrêter avant
+#d'atteindre un certain point (on parle alors d'un break
+test =0
+while test <= 7 : #condition
+    test += 1
+    if test == 5:
+        continue # c'est pour sauter la condition que l'on indiquer 
+    print(test)
+    # ----> 1 2 3 4 6 7 
+
+
+test2 = 2
+while test2 < 8 : # on utilise le mot clé "
+    test2+=1
+    if test2 == 5:
+        break #c'est pour arrêter la boucle quand on veut
+    print(test2)
+ # ----> 3 4 
+ 
+  
+    
+
+
+
