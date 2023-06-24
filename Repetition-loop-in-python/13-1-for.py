@@ -10,3 +10,32 @@
 # celle-ci est mieux adaptée aux listes ou tuples. Cependant elle ne peut pas être interrompue en particulier si on veut revenir sur
 #un élément précédent dans une liste.
 
+for test in 'HELLO WORLD':
+    print(test)
+  #----> H
+        #E
+        #L
+        #L
+        #O
+ 
+        #W
+        #O
+        #R
+        #L
+        #D
+
+   # print('FIN')
+   # break #on sort de la boucle si on veut, cela permet de ne
+#pas avoir un code qui s'execute toujours
+
+test2 = ['hello','world','bonjour']
+for exemple in test2:
+    print(exemple)
+     #---> hello
+         # world
+         # bonjour
+
+
+
+
+
