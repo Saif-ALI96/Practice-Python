@@ -13,7 +13,7 @@
 # et le rest de code ne serait jamais excuter 
 # dans ce cas la, on va utiliser le try() et except pour intercepter cette erreur
 
-# par exemple 
+# par exemple :
 
 try :
      num = int(input("entrez votre numero: "))
