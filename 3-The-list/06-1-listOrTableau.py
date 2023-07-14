@@ -42,9 +42,9 @@
 # Pour commencer, nous allons afficher tous nos elements grâce au for loop
 #par exemple :
 
-#tableau5 = ['python','Php','Css','Html','java']
+tableau5 = ['python','Php','Css','Html','java']
 
-#for i in range(len(tableau5)):
- #print(i,"-",tableau5[i])
+for i in range(len(tableau5)):
+ print(i,"-",tableau5[i])
 
 
