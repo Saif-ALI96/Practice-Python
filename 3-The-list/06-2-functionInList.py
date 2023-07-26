@@ -5,8 +5,8 @@ tableau = ['python','Php','Css','Html']
 
 #une function pour ajouter un element dans un tableau par utiliser le append()
 
-#tableau.append('Sass')
-#print(tableau)#-----> ['python', 'Php', 'Css', 'Html', 'Sass']
+tableau.append('Sass')
+print(tableau)#-----> ['python', 'Php', 'Css', 'Html', 'Sass']
 # il faut savoir que la fonction append() ajoute l'element par defuat a la fin du tableau 
 
 
