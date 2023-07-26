@@ -1,13 +1,13 @@
 #La liste d'une maniere simple, c'est la possibilité d'ajouter et de stocker un nombre illimité de données
 
-#tableau = ['python','Php','Css','Html','Java','JavaScript',[1,2,3,4,5,['France','Irak', 'Italy']]]
+tableau = ['python','Php','Css','Html','Java','JavaScript',[1,2,3,4,5,['France','Irak', 'Italy']]]
 
-#print(tableau[2])  #On utilise le numéro pour acceder
+print(tableau[2])  #On utilise le numéro pour acceder
 #----> Css
 #print(tableau[-1][-1])   #on peut aussi utiliser les indices negatifs
 #------> ['France', 'Irak', 'Italy']
 
-#print(tableau[6][5][1]) #-----> on peut aussi cibler un tableau dans un autre tableau qui est aussi dans un autre
+print(tableau[6][5][1]) #-----> on peut aussi cibler un tableau dans un autre tableau qui est aussi dans un autre
 #---> Irak
 
 
