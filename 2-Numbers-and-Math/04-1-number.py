@@ -28,3 +28,17 @@ print(test4)# --> 2.0
 test5 = (15%2)
 print(test5)# --> 1
 
+
+def operation(operator,num1,num2):
+    if operator == '+' :
+        return num1 + num2
+    elif operator=='-' :
+        return num1 - num2
+    elif operator == "*":
+        return num1 * num2
+    else :
+        num1 / num2
+print (operation('*', 3,6)) # sortie ----> 18
+    
+    
+    
