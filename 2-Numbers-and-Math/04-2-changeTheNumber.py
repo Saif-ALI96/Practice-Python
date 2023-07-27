@@ -1,4 +1,4 @@
-#là , nous allons voir comment peut on changer les numbres vers string ou l'inverse 
+# Nous allons voir comment peut on changer les numbres vers string ou l'inverse.
 
 #function float() -----> return number float 
 #function str() ----> return "string"
@@ -7,10 +7,10 @@
 
 
 changeTheNumber = (7+7)
-# print(changeTheNumber + "years old" ) #------>TypeError: unsupported operand type(s) for +: 'int' and 'str'
-#nous pouvons pas faire cete operation entre un strign et Number. pour resoudre ce problem 
-# on va mettre le mot (str)deveant le variable pour excuter cette operation 
-
+'''print(changeTheNumber + "years old" ) #------>TypeError: unsupported operand type(s) for +: 'int' and 'str'
+nous pouvons pas faire cete operation entre un strign et Number. pour resoudre ce problem 
+on va mettre le mot (str)deveant le variable pour excuter cette operation 
+'''
 
 print(str(changeTheNumber) + " " + "years old") #---> 14 years old
 #le plus (+) dans le print s'appelle concaténation ou (concatenation --> en anglais)  
