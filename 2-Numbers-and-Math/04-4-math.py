@@ -4,7 +4,7 @@
 #qui contient plusieurs functions importantes 
 #pour pouvoir l'ustiliser, on peut l'appeler de la maniere suivente :
 
-from math import *
+from math import *  # c'est une biblioteque pour le math qui existe en Python
 
 #les functions suiventes apprtient a cette bibliotheque qui se trouve ce-dessus
 
