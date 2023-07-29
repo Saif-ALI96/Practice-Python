@@ -9,9 +9,12 @@ print('your age is ' + age)
 # on concatene deux chaines de caracteres en utilisant la plus simple des opérateur '+'
 
 
-#number1 = input('number one is :')
-#number2 =input ('number two is:')
-#sum= int(number1)+int(number2)
+number1 = input('number one is :')
+number2 =input ('number two is:')
+sum= int(number1)+int(number2)
+divisioin = number1/float(number2)# division avec virgule flott
+
+
 #  #conversion du string en entier pour pouvoir effectuer un calcul sur ce nombre.
 
 #sum= float(number1) + float(number2)
