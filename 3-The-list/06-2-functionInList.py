@@ -14,8 +14,8 @@ print(tableau)#-----> ['python', 'Php', 'Css', 'Html', 'Sass']
 #une fonction pour inserer un element dans un endroit spécifique dans le tableau,
 #c'est la fonction insert() qui prend 2 parametres : index et valeur à insérer
 
-#tableau.insert(2,'Javascript')
-#print(tableau)  #--->['Javascript', 'Python', 'Php', 'Css', 'Html', 'Sass']
+tableau.insert(2,'Javascript')
+print(tableau)  #--->['Javascript', 'Python', 'Php', 'Css', 'Html', 'Sass']
 
 
 #nous pouvons fuisonner un tableau avec un autre afin de pouvoir avoir un seul 
@@ -23,10 +23,10 @@ print(tableau)#-----> ['python', 'Php', 'Css', 'Html', 'Sass']
 #par exemple  :
 
 
-#tableau2 = [1,2,3,4,5]
+tableau2 = [1,2,3,4,5]
 
-#tableau.extend(tableau2)
-#print (tableau)
+tableau.extend(tableau2)
+print (tableau)
 
 
 # il y a aussi une autre maniere pour les fuisonner en utilisant l'opérateur +
