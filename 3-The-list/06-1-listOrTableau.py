@@ -32,10 +32,12 @@ print(tableau[6][5][1]) #-----> on peut aussi cibler un tableau dans un autre ta
 #Si vous voulez voir si un element existe dans votre listes vous pouvez faire :
 #par exemple :
 
-#tableau4 = ['python','Php','Css','Html','java']
-#if "java" in tableau4:
-#    print("Oui")
-
+tableau4 = ['python','Php','Css','Html','java']
+if "java" in tableau4:
+    print("Oui")
+else:
+    print ("Non")
+    
 
 #Vous avez maintenant compris comment créer une liste. Nous allons apprendre à manipuler ces listes avec différent
 #méthodes.
