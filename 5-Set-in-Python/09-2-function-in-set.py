@@ -13,7 +13,8 @@
 
 num1 = {1,2,4,8,9}
 num2 = {8,9,3,5}
-#print(num1.union(num2))
+
+print(num1.union(num2))
 print(num1|num2) # une autre maniere pour fussionner les sets
 #--> {1, 2, 4, 8, 9, 3, 5}
 
