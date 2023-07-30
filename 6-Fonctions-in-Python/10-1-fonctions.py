@@ -45,7 +45,7 @@ presentation("John",25)
 # - La fonction peut prendre un nombre variable d’arguments, séparés par des virgules:
 #def additionner(*args): # args est le nom que l'on attribue à cette liste contenant tous nos arguments
   #  resultat = sum(args)
-   # print ("Le résultat est :",resultat)
+    # print ("Le résultat est :",resultat)
 
 
 
@@ -55,5 +55,6 @@ presentation("John",25)
 # Pour créer une fonction anonyme il suffit de définir son corps puis de lui attribuer une adresse mémo
 # Par exemple nous pouvons utiliser une fonction lambda sur une liste afin de calculer la moyenne des éléments de ce tableau
 l=[30,57,9]
+
 average=lambda x: sum(x)/len(x)
 print("Moyenne:", average(l))
