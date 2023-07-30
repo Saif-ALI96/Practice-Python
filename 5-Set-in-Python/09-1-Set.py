@@ -10,9 +10,9 @@
 #les unions, les différences, les intersections, etc.
 #Exemple :
 
-#a = {10,'python',25} #Crée une liste avec trois éléments uniques (10, 'python' and 25)
+a = {10,'python',25} #Crée une liste avec trois éléments uniques (10, 'python' and 25)
 
-#print(type(a)) #---> <class 'set'>
+print(type(a)) #---> <class 'set'>
 
 #b= {'java','php'} #Crée une autre liste avec deux éléments uniques ('java'and 'php')
 #print(type(b)) #---><class'set'>
