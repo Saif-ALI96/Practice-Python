@@ -37,6 +37,13 @@ for exemple in test2:
 
 
 
+test3 = [3,5,7,8,9,90,]
+print(len([x for x in test2]))
+
+
+
+
+
 
 
 
