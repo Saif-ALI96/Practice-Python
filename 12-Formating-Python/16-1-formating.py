@@ -23,10 +23,11 @@ country = 'Iraq'
 #   les autres sont similaires à ce que l'on peut trouver sur  internet
 
 
-#  on peut preciser, demander plus de precision . on va ajouter (.) apres le %
+# on peut preciser, demander plus de precision . on va ajouter (.) apres le %
 # par exemple :
 
 print('i am %.3f years old' %age)  # -----> i am 17.000 years old
+
 print('my name is %.4s ' % name)   # -----> my name is hass 
 
 
