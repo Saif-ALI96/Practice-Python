@@ -14,7 +14,8 @@ files = open('files-in-python/read.txt','r')
 #  .read()     # lecture de fichier tel qu'il est 
 
 # pour avoir le resultat l'un apres l'autre , on peut utiliser le loop for 
-#par exemple
+#par exemple:
+
 for loop in files.readlines():
     print(loop)
     # -----> hello world 
