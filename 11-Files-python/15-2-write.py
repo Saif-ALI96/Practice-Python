@@ -39,6 +39,7 @@
 
 filles = open('files-in-python/15-3-write2.txt', 'w')
 print(filles.write("Hello World"))
+
 # ---->  on peut meme creer un nouveau fichier et ajouter du contenu 
 filles.close()
 
