@@ -18,7 +18,7 @@ print("{} is {} years old.".format(name, age) )   # John is 25 years old .
 #  pour cibler un lettre dans le string ou numbre , on va l'ajouter dans les parentheses
 # par exemple: 
 
-print('hello {:.2s}' .format(name))  # hello Jo
+# print('hello {:.2s}' .format(name))  # hello Jo
 
 #  on peut meme ecrire autre chose que le vraible declarer avant :
 
