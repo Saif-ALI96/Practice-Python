@@ -7,7 +7,7 @@ name = 'hassan'
 age = 17
 country = 'Iraq'
 
-# print("Hello my name is {} and I am {}, born in {}".format(name,age,country))
+print("Hello my name is {} and I am {}, born in {}".format(name,age,country))
 
 
 # print('my name is %s, and i am %s years old, born in %s' %(name , age , country))
