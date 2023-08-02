@@ -3,6 +3,7 @@
 #  il existe aussi un troiseme type qui est encore plus simple que les precedentes
 # . c'est l'utilisation des f-strings (formatted string literals)
 
+
 #  par exemple :
 
 age = 30
