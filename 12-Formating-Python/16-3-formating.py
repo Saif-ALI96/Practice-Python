@@ -8,10 +8,13 @@
 
 age = 30
 name ="John Doe"
-print(f"{name} is {age} years old.") # John Doe is 30 years old.
+print(f"{name} is {age} years old.")
+
+ # John Doe is 30 years old.
 
 
 print(f'his name is {name:.3s}, and he has {age :.3f} years old.')
+
 # his name is Joh, and he has 30.000 years old.
 
 
