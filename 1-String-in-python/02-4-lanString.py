@@ -9,6 +9,7 @@ print(len(country)) # 30 caractères, donc
 
 country3 = "France Irak Sweden Italy Spain"
 print(country3.index("S")) #----> 12 //
+
 # pour afficher la place de l'element dans le tableau
 #mais en chiffre(number) Comme dans l'exemple ci-dessus 
 # s'il y a deux S,  cela nous renvoie le premier indice du mot 'Sweden'.
