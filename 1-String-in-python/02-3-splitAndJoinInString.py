@@ -26,11 +26,13 @@ print(nomDeLangages3.split("-",3)) #----> ['python', 'Php', 'Css', 'Html-Java-Ja
 # mais il va partir de la droite vers la gauche.
 
 nomDeLangages5 = "python-Php-Css-Html-Java-JavaScript"
-print(nomDeLangages5.rsplit("-", 3)) #-----> ['python-Php-Css', 'Html', 'Java', 'JavaScript']
+print(nomDeLangages5.rsplit("-", 3)) 
+#-----> ['python-Php-Css', 'Html', 'Java', 'JavaScript']
 
 
 #le function .join() permet de recomposer tous ces éléments d'un tableau sous
 #forme de chaîne de caractères :
 
 langages_séparés = ['Python','PHP','CSS','HTML','JAVA']
+
 print(''.join(langages_séparés)) # ----> PythonPHPCSSHTMLJAVA
