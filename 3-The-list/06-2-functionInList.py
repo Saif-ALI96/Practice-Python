@@ -20,6 +20,7 @@ print(tableau)  #--->['Javascript', 'Python', 'Php', 'Css', 'Html', 'Sass']
 
 #nous pouvons fuisonner un tableau avec un autre afin de pouvoir avoir un seul 
 #pour faire cela, on utilise la fonction .extend()
+
 #par exemple  :
 
 
