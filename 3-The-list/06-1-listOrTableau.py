@@ -29,7 +29,7 @@ print(tableau[6][5][1]) #-----> on peut aussi cibler un tableau dans un autre ta
 
 
 
-#Si vous voulez voir si un element existe dans votre listes vous pouvez faire :
+# Si vous voulez voir si un element existe dans votre listes vous pouvez faire :
 #par exemple :
 
 tableau4 = ['python','Php','Css','Html','java']
