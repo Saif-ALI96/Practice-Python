@@ -91,10 +91,12 @@ dico3={'nom':'<NAME>'}
 
 dico3.update({'age':47})
 print(dico3) # ----> {'nom': '<NAME>', 'age': 47}
-
-#Une autre possibilité consiste à utiliser la méthode setdefault() qui sert à mettre à jour un élément existant
-#dans un dictionnaire ou à insérer un nouvel élément s’il n’existe pas encore. La signature de cette
-#méthode ressemble à ceci :
+'''
+Une autre possibilité consiste à utiliser la méthode setdefault() 
+qui sert à mettre à jour un élément existant
+dans un dictionnaire ou à insérer un nouvel élément s’il n’existe pas encore. 
+La signature de cette méthode ressemble à ceci :
+'''
 
 dico3.setdefault('age',69)
 print(dico3)
