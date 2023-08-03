@@ -12,7 +12,7 @@ print('your age is ' + age)
 number1 = input('number one is :')
 number2 =input ('number two is:')
 sum= int(number1)+int(number2)
-divisioin = number1/float(number2)# division avec virgule flott
+divisioin = number1/float(number2) # division avec virgule flott
 
 
 #  #conversion du string en entier pour pouvoir effectuer un calcul sur ce nombre.
