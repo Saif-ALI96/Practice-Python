@@ -1,5 +1,5 @@
 
-#  nous avons deja vu deux types ou deux facon pour ecrire le formating .format()
+#  Nous avons deja vu deux types ou deux facon pour ecrire le formating .format()
 #  il existe aussi un troiseme type qui est encore plus simple que les precedentes
 # . c'est l'utilisation des f-strings (formatted string literals)
 
