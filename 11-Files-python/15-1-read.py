@@ -7,10 +7,10 @@ files = open('files-in-python/read.txt','r')
 
 #.readline()   #lecture d'une ligne seulement avec readline(), puis
 #stockage dans une nouvelle variable line
-
+'''
 #print(files.readlines()) #lecture de toutes les lignes du fichiers
 # ------> #['hello world \n', 'i am here for learning python\n', 'number \n', 'string\n', 'boolean']
-
+'''
 #  .read()     # lecture de fichier tel qu'il est 
 
 # pour avoir le resultat l'un apres l'autre , on peut utiliser le loop for 
