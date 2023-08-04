@@ -16,6 +16,7 @@ print("Hello my name is {} and I am {}, born in {}".format(name,age,country))
 #  on plusieurs types comme ca , par exemple :
 #  %s , %d , %f etc...
 
+
 #  le %s ---- >  c'est pour le type STRING
 #  le %d ---- >  c'est pour le type NUMBERS
 #  le %f ---- >  c'est pour le type FLOAT
