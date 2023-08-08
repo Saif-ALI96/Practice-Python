@@ -7,7 +7,7 @@ for item in my_list:
     new_item=str(item).upper()
     print("New Item:",new_item)
 
-#  ou 
+#  or
 
 liste = ['css', 'html', 'python']
 for loop in range(len(liste)):
