@@ -23,6 +23,7 @@ print(country4.index("Italy")) #-----> est (7)
 #le function  .replace() permet d'effectuer une remplacement des lettres par les autres:
 
 country5 = "Germany Ireland Portugal Greece Turkey"
+
 print(country5.replace('I', 'i')) #--->  ireland 
 print(country.replace('Ireland', 'Irak')) # ----> France Irak Sweden Italy Spain
 
