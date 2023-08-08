@@ -27,6 +27,7 @@ print(nomDeLangages3.split("-",3)) #----> ['python', 'Php', 'Css', 'Html-Java-Ja
 
 nomDeLangages5 = "python-Php-Css-Html-Java-JavaScript"
 print(nomDeLangages5.rsplit("-", 3)) 
+
 #-----> ['python-Php-Css', 'Html', 'Java', 'JavaScript']
 
 
