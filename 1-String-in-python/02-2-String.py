@@ -41,6 +41,7 @@ print(test1.isupper()) # on va avoir True
 
 
 test2 = "hello"
+
 print(len(test2)) # on va avoir 5 caractére
 
 
