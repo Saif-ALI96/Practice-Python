@@ -8,6 +8,7 @@ print(False)
 # print() ----> est une fonction qui permet d'afficher quelque chose à l'écran
 #la syntaxe est assez simple elle ressemble au code suivante
 #print ("hello world")
+
 # quelque ce soit le contenu string ou number
 
 
