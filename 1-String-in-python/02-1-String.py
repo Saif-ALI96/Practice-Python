@@ -28,6 +28,7 @@ print(test2[0:6])
 # un tableau commence toujours par Zéro et bien pas en commençant par 1
 # par exemple comme le mot ---python-- c'est six caractéres, 
 # donc de 0 a 5 mais attention pour afficher 
+
 # le dernier caractère on souhite afficher dans le mot (python),
 #  nous deveons ajouter 1 de plus, du coup cela s'ecrit comme ca [0:6] ===> python
 
