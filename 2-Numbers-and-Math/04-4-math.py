@@ -13,6 +13,7 @@ print(floor(7.9)) #----> nous aurons le chiffre (7)
 #Il imprimera le plus petit nombre des nombres décimaux à l'intérieur des parenthèses
 
 print(ceil(8.2)) #---> nous aurons le chiffre (9)
+
 print(ceil(4.5)) #---> nous aurons le chiffre (5)
 # Il imprime le plus grand nombre des nombres décimaux à l'intérieur des parenthèses
 # et passe a la prochain chiffre 
