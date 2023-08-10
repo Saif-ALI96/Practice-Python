@@ -17,7 +17,7 @@ print(str(changeTheNumber) + " " + "years old") #---> 14 years old
 
 # on peut changer les nombres type integer (عدد صحيح) a nombres type folat ( رقم عشري)
 
-print(type(15)) # ---><class 'int'>
+print(type(15)) # --->  <class 'int'>
 
 print(float(15)) #----> nous aurons le float number (15.0)
 
