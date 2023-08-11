@@ -2,7 +2,7 @@
 #  Nous allons voir la deuxième méthode avec le formating  de string.
 # format() qui est plus simple et facile à utiliser que les autres:
 
-#  par exemple:
+# for exemple :
 
 
 age = 25
