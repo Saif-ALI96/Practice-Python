@@ -9,7 +9,7 @@ for item in the_list:
 
 #  or
 
-liste = ['css', 'html', 'python']
-for loop in range(len(liste)):
-    new_upper_list= liste[loop].upper()
+list = ['css', 'html', 'python']
+for loop in range(len(list)):
+    new_upper_list= list[loop].upper()
     print(new_upper_list)
