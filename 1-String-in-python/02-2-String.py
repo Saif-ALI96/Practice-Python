@@ -30,9 +30,9 @@
 #   mais il va partir de la droite vers la gauche.
 
 
-test = "hello"
-print(test.upper()) # on va avoir "HELLO" en Majuscul
-print(test.islower()) # on va avoir True
+test1 = "hello"
+print(test1.upper()) # on va avoir "HELLO" en Majuscul
+print(test1.islower()) # on va avoir True
 
 
 test1 = "HELLO"
