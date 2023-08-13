@@ -5,8 +5,8 @@
 
 name = ('HELLO WORLD')
 print(name)
-name1 = ("HELLO WORLD")
-print(name1)
+name3 = ("HELLO WORLD")
+print(name3)
 
 # pour écrire un contenu assez long en string, on utilse le triple virgule (""")
 
