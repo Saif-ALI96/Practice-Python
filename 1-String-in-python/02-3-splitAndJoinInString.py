@@ -10,8 +10,8 @@
 # alors il faut utiliser la fonction split(" "). 
 #le resultat est le suivent:
 
-nomDeLangages = "python Php Css Html Java JavaScript"
-print(nomDeLangages.split(" ")) #----> ['python', 'Php', 'Css', 'Html', 'Java', 'JavaScript']
+langages = "python Php Css Html Java JavaScript"
+print(langages.split(" ")) #----> ['python', 'Php', 'Css', 'Html', 'Java', 'JavaScript']
 
 nomDeLangages2 = "pythonPhpCssHtmlJavaJavaScript"
 print(nomDeLangages2.split("p")) #----> ['', 'ythonPh', 'CssHtmlJavaJavaScri', 't']
