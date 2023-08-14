@@ -46,26 +46,26 @@
 
 #Il existe plusieurs manières différentes de créer un dictionnaire dans python.
 
-dico2 = {'nom':'<NAME>', 'age':30} #dictionaire simple
+dico = {'nom':'<NAME>', 'age':30} #dictionaire simple
 
 #print(dico2['nom']) #accès au nom via son indice
 
 #print(dico2[('nom')]) #même chose mais cette fois ci nous avons passer une chaîne de caract
 
-print(dico2.get('id', 'not found')) #fonction get permet de récupérer une donnée si elle existe.
+print(dico.get('id', 'not found')) #fonction get permet de récupérer une donnée si elle existe.
 #sinon renvoit --None--- ou ecrire le message que vous souhaitez l'afficher comme l'exemple ci-dessus('not found')
 
 
 #Pour ajouter un nouveau couple clé / valeur dans notre dictionnaire, on fait simplement :
 
-dico2['ville']='Paris'
-print(dico2) # -----> {'nom': '<NAME>', 'age': 30, 'ville': 'Paris'}
+dico['ville']='Paris'
+print(dico) # -----> {'nom': '<NAME>', 'age': 30, 'ville': 'Paris'}
 
 
 #Si vous souhaitez supprimer un élément d’un dictionnaire, vous pouvez utiliser la méthode pop()
 
-del dico2['nom']
-print(dico2) # ----> {'age': 30, 'ville': 'Paris'}
+del dico['nom']
+print(dico) # ----> {'age': 30, 'ville': 'Paris'}
 
 #Vous pouvez également vouloir retenir seulement certains éléments d’un dictionnaire sans changer celui là entier.
 # # قد ترغب أيضًا في الاحتفاظ بعناصر معينة فقط من القاموس دون تغيير المعجم بأكمله.
