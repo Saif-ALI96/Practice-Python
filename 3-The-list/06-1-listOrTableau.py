@@ -2,7 +2,10 @@
 
 tableau = ['python','Php','Css','Html','Java','JavaScript',[1,2,3,4,5,['France','Irak', 'Italy']]]
 
-print(tableau[2])  #On utilise le numéro pour acceder
+print(tableau[2])  #On utilise le numéro pour accéder
+# à une valeur dans notre tableau. On peut aussi utiliser des crochets []
+# avec les nombres entiers ou bien l'indexation par défaut qui commence à partir du premier élément (0)
+
 #----> Css
 #print(tableau[-1][-1])   #on peut aussi utiliser les indices negatifs
 #------> ['France', 'Irak', 'Italy']
