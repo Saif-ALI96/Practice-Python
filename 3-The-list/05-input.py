@@ -1,11 +1,12 @@
 
 #nous allons voir les input et leurs fonctionnalite dans le langage python
 
-name = input('what is your name : ')
+name1 = input('what is your name : ')
 #on demande a l'utilisateur d'entrer une chaine de caractere (string)
 age = input('age : ')
-print('welcome agin ' + name) 
+print('welcome agin ' + name1) 
 print('your age is ' + age)
+
 # on concatene deux chaines de caracteres en utilisant la plus simple des opérateur '+'
 
 
