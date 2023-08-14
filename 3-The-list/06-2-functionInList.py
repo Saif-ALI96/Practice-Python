@@ -25,8 +25,8 @@ print(tableau)  #--->['Javascript', 'Python', 'Php', 'Css', 'Html', 'Sass']
 
 
 tableau2 = [1,2,3,4,5]
-
 tableau.extend(tableau2)
+
 print (tableau)
 
 
@@ -52,6 +52,7 @@ tableau2 = [5,4,6,3,2,8,0,9,7]
 
 # la fonction .reversed() permet de reverse les éléments dans un tableau 
 # par exemple : 
+
 tableau2.reverse()
 print(tableau2) #----->[7, 9, 0, 8, 2, 3, 6, 4, 5]
 
