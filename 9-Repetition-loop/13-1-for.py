@@ -10,8 +10,8 @@
 # celle-ci est mieux adaptée aux listes ou tuples. Cependant elle ne peut pas être interrompue en particulier si on veut revenir sur
 #un élément précédent dans une liste.
 
-for test in 'HELLO WORLD':
-    print(test)
+for test1 in 'HELLO WORLD':
+    print(test1)
   #----> H
         #E
         #L
