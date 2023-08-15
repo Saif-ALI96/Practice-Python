@@ -28,12 +28,12 @@ while test <= 7 : #condition
     # ----> 1 2 3 4 6 7 
 
 
-test2 = 2
-while test2 < 8 : # on utilise le mot clé "
-    test2+=1
-    if test2 == 5:
+test3 = 2
+while test3 < 8 : # on utilise le mot clé "
+    test3+=1
+    if test3 == 5:
         break #c'est pour arrêter la boucle quand on veut
-    print(test2)
+    print(test3)
  # ----> 3 4 
  
   
