@@ -3,11 +3,11 @@
 #  r , r+ , w , w+ , a , a+ 
 # mode d’ouverture des fichiers sur Python est très similaire aux modes utilisés
 # dans les autres langages informatiques tels que C/C++, Java et PHP.
-
-# - Le mode ‘r’ permet de lire une portion fixée du contenu d’un fichier existant sans modifier son état actuel;
+'''
+# - Le mode 'r' permet de lire une portion fixée du contenu d’un fichier existant sans modifier son état actuel;
 # il sert par exemple à afficher le contenue d’une page web.
 # par exemple:
-
+'''
 # filles = open('files-in-python/15-2-write.txt', 'r')
 # print(filles.read()) #----> pour lire le contenu
 # filles.close()
