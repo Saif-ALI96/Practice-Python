@@ -1,8 +1,8 @@
 # en python on peut acceder aux autre fichers pour lire ou ecrire etc...
 
-files = open('files-in-python/read.txt','r')
+files_test = open('files-in-python/read.txt','r')
 #ouverture du fichier read.txt en mode lecture (r) et stockage dans la variable text
-# print (files.readable()) -----> True 
+# print (files_test.readable()) -----> True 
 
 
 #.readline()   #lecture d'une ligne seulement avec readline(), puis
