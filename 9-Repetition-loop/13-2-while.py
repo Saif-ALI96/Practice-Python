@@ -5,10 +5,10 @@
 
 #Exemple:
 
-#index = 0
-#while index <= 6 :
-#    print(index)
-#    index = index + 1
+index = 0
+while index <= 6 :
+   print(index)
+   index = index + 1
 #0
 #1
 #2
