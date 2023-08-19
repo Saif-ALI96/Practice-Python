@@ -17,14 +17,14 @@
 # javascript
 
 
-liste = ['python', 'c#' , 'c++' , 'java' ,'javascript']
+liste1 = ['python', 'c#' , 'c++' , 'java' ,'javascript']
 
-for langues in range(len(liste)) :
-    if liste[langues] == 'python':
+for langues in range(len(liste1)) :
+    if liste1[langues] == 'python':
           
-        print (liste[langues], 'hello my new language of programation')
+        print (liste1[langues], 'hello my new language of programation')
     else:
-        print (liste[langues] )   
+        print (liste1[langues] )   
 
     # python hello my new language of programation
     #c#
