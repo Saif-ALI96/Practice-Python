@@ -1,6 +1,6 @@
 
 #question  = input('Which city is called the city of love?')
-answer = 'Paris'
+answer = 'PARIS'
 answerOfUser = ''
 count = 0
 lose = False
