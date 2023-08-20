@@ -87,10 +87,10 @@ print(dict_test)  # ----> {'a': 5, 'b': 5}
 
 #vous pouvez toujours utiliser la méthode update(), qui accepte un argument de type dictionnaire.
 #Cet argument devra contenir les modifications dont vous souhaitez effectuer.
-dico3={'nom':'<NAME>'}
+dico31={'nom':'<NAME>'}
 
-dico3.update({'age':47})
-print(dico3) # ----> {'nom': '<NAME>', 'age': 47}
+dico31.update({'age':47})
+print(dico31) # ----> {'nom': '<NAME>', 'age': 47}
 '''
 Une autre possibilité consiste à utiliser la méthode setdefault() 
 qui sert à mettre à jour un élément existant
@@ -98,8 +98,8 @@ dans un dictionnaire ou à insérer un nouvel élément s’il n’existe pas en
 La signature de cette méthode ressemble à ceci :
 '''
 
-dico3.setdefault('age',69)
-print(dico3)
+dico31.setdefault('age',69)
+print(dico31)
 
 #Dans cet exemple, si age existe déjà dans le dictionnaire, alors la valeur actuelle sera remplace par 80.
 #  Sinon, la valeur 80 sera ajoutée à la fin du dictionnaire.
