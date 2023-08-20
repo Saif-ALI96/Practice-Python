@@ -50,10 +50,12 @@ presentation("John",25)
 
 
 # ### FONCTIONS ANONYMES
+'''
 # Il existe également des fonctions anonymes, celle-ci ne possédant pas de nom mais uniquement une adresse
 # Elle sert principalement aux travaux asynchrones.
 # Pour créer une fonction anonyme il suffit de définir son corps puis de lui attribuer une adresse mémo
 # Par exemple nous pouvons utiliser une fonction lambda sur une liste afin de calculer la moyenne des éléments de ce tableau
+'''
 l=[30,57,9]
 
 average=lambda x: sum(x)/len(x)
