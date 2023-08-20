@@ -18,14 +18,14 @@ print(num1.union(num2))
 print(num1|num2) # une autre maniere pour fussionner les sets
 #--> {1, 2, 4, 8, 9, 3, 5}
 
-A = {10,'python',25}
+test = {10,'python',25}
 
-A.update([67,65,23]) # on puet ajouter plusieurs elements en meme temps
+test.update([67,65,23]) # on puet ajouter plusieurs elements en meme temps
 # -----> {65, 67, 10, 'python', 23, 25}
 #A.add(67)
 # c'est la meme chose que .update() mais, on peut ajouter un seul element seulement 
 # avec parantheses [] pour ajouter un element 
-print(A)
+print(test)
 #--> {67, 25, 10, 'python'}
 
 A.discard(25) # c'est la meme fonctionnalite de .remove() mais l'agantage de celle ci,
