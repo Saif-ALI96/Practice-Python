@@ -28,8 +28,8 @@ for test1 in 'HELLO WORLD':
    # break #on sort de la boucle si on veut, cela permet de ne
 #pas avoir un code qui s'execute toujours
 
-test = ['hello','world','bonjour']
-for exemple in test:
+test2 = ['hello','world','bonjour']
+for exemple in test2:
     print(exemple)
      #---> hello
          # world
