@@ -1,9 +1,9 @@
 
 # exercis
 
-number1 = float(input('entre your number : '))
+number1 = float(input('entre your first number : '))
 opreteur = input()
-number2 = float(input('entre another number:'))
+number2 = float(input('entre your second number:'))
 if opreteur == '+':
     print (number1 + number2)
 elif opreteur == '-':
