@@ -3,8 +3,8 @@
 
 # PAR EXEMPLE
 
-name = ('HELLO WORLD')
-print(name)
+nom = ('HELLO WORLD')
+print(nom)
 name3 = ("HELLO WORLD")
 print(name3)
 
