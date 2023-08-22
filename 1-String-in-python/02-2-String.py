@@ -35,9 +35,9 @@ print(test1.upper()) # on va avoir "HELLO" en Majuscul
 print(test1.islower()) # on va avoir True
 
 
-test1 = "HELLO"
-print(test1.lower()) # on va avoir "hello" en Minuscul
-print(test1.isupper()) # on va avoir True
+test12 = "HELLO"
+print(test12.lower()) # on va avoir "hello" en Minuscul
+print(test12.isupper()) # on va avoir True
 
 
 test2 = "hello"
