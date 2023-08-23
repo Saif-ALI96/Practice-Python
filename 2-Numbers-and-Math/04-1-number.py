@@ -29,7 +29,7 @@ test5 = (15%2)
 print(test5)# --> 1
 
 
-def operation(operator,num1,num2):
+def operations(operator,num1,num2):
     if operator == '+' :
         return num1 + num2
     elif operator=='-' :
@@ -38,7 +38,7 @@ def operation(operator,num1,num2):
         return num1 * num2
     else :
         num1 / num2
-print (operation('*', 3,6)) # sortie ----> 18
+print (operations('*', 3,6)) # sortie ----> 18
     
     
     
