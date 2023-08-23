@@ -15,10 +15,10 @@ print(round(9.4)) # ----> nous aurons le chiffre 9
 #pour afficher tous les resultats des numeros entiers entre -7 et
 #-1 incluant il faut ecrire une boucle for
 #  par exemple :
-
+'''
 for i in range(2,6):    
 
     print(i,round(float((abs(i)+1.0))))
     
-
+'''
 
