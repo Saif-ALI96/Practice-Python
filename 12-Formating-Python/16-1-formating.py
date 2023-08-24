@@ -5,7 +5,7 @@
 
 name = 'hassan'
 age = 17
-country = 'franc'
+country = 'france'
 
 print("Hello my name is {} and I am {}, born in {}".format(name,age,country))
 
