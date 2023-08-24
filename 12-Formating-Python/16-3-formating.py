@@ -6,7 +6,7 @@
 
 #  par exemple :
 
-age = 30
+age = 35
 name ="John Doe"
 print(f"{name} is {age} years old.")
 
