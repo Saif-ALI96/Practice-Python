@@ -1,10 +1,10 @@
-
-# #  En Python, un module est un fichier contenant du code Python qui définit des fonctions, 
+'''
+  En Python, un module est un fichier contenant du code Python qui définit des fonctions, 
 # des classes et des variables pouvant être utilisées dans d'autres programmes Python.
 # Les modules vous permettent d'organiser votre code dans des fichiers séparés, 
 # ce qui facilite sa gestion et sa réutilisation.
 # ## Comment utiliser les modules?
-
+'''
 
 
 # Les modules vous aident à diviser un programme volumineux en morceaux plus petits et plus gérables.
