@@ -14,7 +14,7 @@ elif opreteur == '*':
 elif opreteur == '/':
     print(number1 / number2)
 
-elif opreteur == '^'
-    print (number1 ** number2)
+# elif opreteur == '^'
+#     print (number1 ** number2)
 else:
     print ('error')
