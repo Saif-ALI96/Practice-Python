@@ -32,8 +32,8 @@ print(double(5))   # affichera "10"
 car doubler prend un entier donné en argument et retourne sa valeur multiplié par deux
 '''
 
-result = lambda loop :loop * 3
-print(result(5))  #--->  15 
+# result = lambda loop :loop * 3
+# print(result(5))  #--->  15 
 
 
 
