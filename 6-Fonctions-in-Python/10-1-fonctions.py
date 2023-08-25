@@ -1,4 +1,4 @@
-#  LES FUNCTIONS EN PYTHON
+'''#  LES FUNCTIONS EN PYTHON
 
 #- Les fonctions sont des blocs de code qui peuvent être réutilisés plusieurs fois.
 #Elles permettent d'éviter la duplication du code et donc une maintenance moins onerous مرهق pour les développeurs.
@@ -12,7 +12,7 @@
 
 # def <nom_de_la_fonction>(<liste_des_paramètres>):
 #     <corps>
-
+'''
 # Le corps de notre fonction doit contenir au minimum une instruction return.
 # Cette instruction permet de renvoyer une valeur à partir de notre fonction.
 
