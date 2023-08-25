@@ -16,15 +16,15 @@ k = [1,"two",True]
 
 # on peut tres bien utiliser un if dans une fonction ou l'inverse 
 
-def names(Saif, Patric ,Hassan):
-    if Saif > Patric and Saif > Hassan:
+def names(Saif, Patrick ,Hassan):
+    if Saif > Patrick and Saif > Hassan:
         print('Saif has the best result :')
         return Saif
     
-    elif Patric> Saif and Patric > Hassan :
+    elif Patrick> Saif and Patrick > Hassan :
 
         print('Johan has the best result :')
-        return Patric
+        return Patrick
     
     else:
      
