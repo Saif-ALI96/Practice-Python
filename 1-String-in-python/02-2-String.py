@@ -1,9 +1,9 @@
 # on quelque function qui peuvent être utile for nous, si nous voulons modifier le contenu 
 # par exemple 
 
-# 01 le function// .upper ----> pour mettre les lettre en Majuscul 
+'''# 01 le function// .upper ----> pour mettre les lettre en Majuscul 
 # 02 le function// .isupper() ----> pour voir si la caractére en Majuscul. le resultat est toujours
-#  en boolean, c'est à dire (True ou False).
+#  en boolean, c'est à dire (True ou False).'''
 
 # 03 le function// .lower() ----> pour mettre les lettre en Minuscul
 # 04 le function// .islower() ----> pour voir si la caractère en Miniscul. le resultat est toujours
