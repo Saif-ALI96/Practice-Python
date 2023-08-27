@@ -4,11 +4,11 @@
 #le function// .split() -----> pour separer les objets comme dands le tableau dans 
 #  double virgule ("").
 
-#Par exemple
+'''#Par exemple
 
 #Si nous voulons que chaque élément soit séparé par une virgule, 
 # alors il faut utiliser la fonction split(" "). 
-#le resultat est le suivent:
+#le resultat est le suivent:'''
 
 langages = "python Php Css Html Java JavaScript"
 print(langages.split(" ")) #----> ['python', 'Php', 'Css', 'Html', 'Java', 'JavaScript']
