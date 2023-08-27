@@ -1,5 +1,6 @@
 # on va voir la contionnalité de la fonction .lan()
-#lan == lenght 
+
+#                 lan == lenght 
 
 country = "France Irak Sweden Italy Spain"
 
