@@ -1,5 +1,5 @@
-#C'est une variable qui reçoit une valeur et on peut changer cette valeur en une autre valeur.
-#Cette valeur est stockée en mémoire, après quoi, elle est appelée par le nom de la variable.
+'''#C'est une variable qui reçoit une valeur et on peut changer cette valeur en une autre valeur.
+#Cette valeur est stockée en mémoire, après quoi, elle est appelée par le nom de la variable.'''
 
 name = "Saif"
 print("welcome " + name + " to our program")
