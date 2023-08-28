@@ -11,6 +11,8 @@ print(type(5)) #----> <class 'int'>
 print(type(5.5))#-----><class 'float'>
 
 print(type(1+2j)) #-----><class 'complex'> 
+print(type(5+8j)) #-----><class 'complex'> 
+
 
 
 test = 2
