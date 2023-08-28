@@ -15,7 +15,7 @@ number2 =input ('number two is:')
 sum= int(number1)+int(number2)
 divisioin = number1/float(number2) # division avec virgule flott
 
-
+''''
 #  #conversion du string en entier pour pouvoir effectuer un calcul sur ce nombre.
 
 #sum= float(number1) + float(number2)
@@ -24,7 +24,7 @@ divisioin = number1/float(number2) # division avec virgule flott
 
 #print("the sum is " + str(division))
 
-#ces deux exemples ci-dessus nous montrent qu'on peut faire tous les operations mathématiques
+#ces deux exemples ci-dessus nous montrent qu'on peut faire tous les operations mathématiques''''
 
 nameOflanguge = input('entre your len :')
 nameOflanguge2 = input('enter your len: ')
