@@ -19,7 +19,7 @@ while index <= 6 :
 
 #On peut aussi utiliser des conditions dans les while pour s'arrêter avant
 #d'atteindre un certain point (on parle alors d'un break
-test =0
+test = 0
 while test <= 7 : #condition
     test += 1
     if test == 5:
