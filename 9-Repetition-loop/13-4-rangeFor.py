@@ -18,8 +18,8 @@ for i in range(10):
 
 #on peut aussi utiliser le range() avec deux chiffres dans les parentheses
 
-for test_2 in range(4,10 ):
-    print(test_2)
+for test2 in range(4,10 ):
+    print(test2)
 #--->  4, 5 ,6,7 ,8 ,9   
 
 #On peut aussi l'utiliser pour des calculs mathématiques:
