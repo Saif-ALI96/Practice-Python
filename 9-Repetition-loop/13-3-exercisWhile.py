@@ -1,5 +1,4 @@
-
-#question  = input('Which city is called the city of love?')
+#Question  = input('Which city is called the city of love?')
 answer = 'Paris'
 answerOfUser = ''
 count = 0
@@ -14,7 +13,6 @@ while answer!= answerOfUser and not lose:
      lose = True
 if lose:
     print('you lose')
-
 else:
     print('you win')
 
