@@ -1,4 +1,4 @@
-#  on va utilisre  le dictionary avec le loop for 
+#  Nous allons utilisre  le dictionary avec le loop for 
 #   pour chaque valeur de la liste, il faut ajouter une clé et un item dans le dictionnaire.
 #   
 # - On peut utiliser l'opé rateur in afin d'avoir les valeurs qui sont présentes 
