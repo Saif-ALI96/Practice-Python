@@ -5,11 +5,11 @@
 # ce qui facilite sa gestion et sa réutilisation.
 # ## Comment utiliser les modules?
 '''
-
+'''
 
 # Les modules vous aident à diviser un programme volumineux en morceaux plus petits et plus gérables.
 #  Vous pouvez considérer un module comme une collection de fonctions et de données associées ayant un objectif spécifique. Python propose une riche collection de modules intégrés, 
-# et vous pouvez également créer vos propres modules.
+# et vous pouvez également créer vos propres modules.'''
 
 ## on va voir dans cet exemple comment cibler le  ficher  entier 
 ### importation de la fonction callname() du module example_of_modules :
