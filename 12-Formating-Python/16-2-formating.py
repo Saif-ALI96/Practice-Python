@@ -6,7 +6,7 @@
 
 
 age = 26
-name ="John"
+name ="Maick"
 country = "France"
 
 
