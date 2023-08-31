@@ -7,7 +7,7 @@
 #  par exemple :
 
 age = 35
-name ="John Doe"
+name ="John_Doe"
 print(f"{name} is {age} years old.")
 
  # John Doe is 30 years old.
