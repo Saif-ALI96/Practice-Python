@@ -3,7 +3,7 @@
 
 #  la première  methode 
 
-name = 'Hassan'
+name = 'HassaN'
 age = 17
 country = 'france'
 
