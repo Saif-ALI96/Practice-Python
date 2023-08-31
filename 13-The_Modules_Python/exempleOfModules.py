@@ -1,6 +1,6 @@
 
 def callName(name):
-    print(f'HELLO {name}')
+    print(f'Hello {name}')
 
 
 def callAge(age):
