@@ -8,8 +8,8 @@ print(len(country)) # 30 caractères, donc
 #.len(country) == 30 (car le \n est compté comme un charatère).
 
 
-country3 = "France Irak Sweden Italy Spain"
-print(country3.index("S")) #----> 12 //
+# country3 = "France Irak Sweden Italy Spain"
+# print(country3.index("S")) #----> 12 //
 
 # pour afficher la place de l'element dans le tableau
 #mais en chiffre(number) Comme dans l'exemple ci-dessus 
