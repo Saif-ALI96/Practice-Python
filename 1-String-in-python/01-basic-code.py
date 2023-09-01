@@ -1,6 +1,6 @@
 # This is my first code in python ;)
 
-print("Hello World")
+print("HELLO WORLD")
 print(123)
 print(True) # pour ècrire --True ou False--- il faut absoulement que le premier lettre être un Majuscul 
 print(False)
