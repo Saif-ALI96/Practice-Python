@@ -2,7 +2,7 @@
 #  faire les vleurs de la list en majuscule  et miniscules
 # par exemple :
 
-the_liste = ["hello", "world"]
+the_liste = ["hello", "python"]
 for item in the_liste:
     new_item=str(item).upper()
     print("New Item:",new_item) # New Item: HELLO
