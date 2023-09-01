@@ -30,7 +30,7 @@
 #   mais il va partir de la droite vers la gauche.
 
 
-test1 = "hello"
+test1 = "Bonjour"
 print(test1.upper()) # on va avoir "HELLO" en Majuscul
 print(test1.islower()) # on va avoir True
 
