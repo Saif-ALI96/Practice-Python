@@ -3,7 +3,7 @@
 
 # PAR EXEMPLE
 
-nom = ('HELLO WORLD')
+nom = ('Bonjour')
 print(nom)
 name3 = ("HELLO WORLD")
 print(name3)
