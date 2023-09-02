@@ -2,7 +2,7 @@
 # les tuples sont un peu près comme les list sauf , on peut pas les modifier une fois qu'elle est créée !
 #par exemple :
 
-tuple1 = (20,"<NAME>",3546789)
+tuple1 = (34,"<NAME>",3546789)
 tuple1[0] = 5 # ----> TypeError: 'tuple' object does not support item assignment
 
 print(tuple1)
