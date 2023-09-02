@@ -1,6 +1,6 @@
 #La liste d'une maniere simple, c'est la possibilité d'ajouter et de stocker un nombre illimité de données
 
-tableau1 = ['python','Php','Css','Html','Java','JavaScript',[1,2,3,4,5,['France','Irak', 'Italy']]]
+tableau1 = ['Php','Css','Html','Java','JavaScript',[1,2,3,4,5,['France','Irak', 'Italy']]]
 
 print(tableau1[2])  #On utilise le numéro pour accéder
 # à une valeur dans notre tableau. On peut aussi utiliser des crochets []
