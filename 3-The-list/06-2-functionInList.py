@@ -24,7 +24,7 @@ print(tableau)  #--->['Javascript', 'Python', 'Php', 'Css', 'Html', 'Sass']
 #par exemple  :
 
 
-tableau2 = [1,2,3,4,5]
+tableau2 = [1,2,3,4,5,12]
 tableau.extend(tableau2)
 
 print (tableau)
