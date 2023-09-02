@@ -3,7 +3,7 @@
 
 name1 = input('what is your name : ')
 #on demande a l'utilisateur d'entrer une chaine de caractere (string)
-age = input('age : ')
+age = input(' your age : ')
 print('welcome agin ' + name1) 
 print('your age is ' + age)
 
