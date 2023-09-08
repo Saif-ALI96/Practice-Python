@@ -6,7 +6,7 @@
 #function type() ----> savoir le type de l'objet 
 
 
-changeNumber = (7+7)
+changeNumber = (10+7)
 '''print(changeTheNumber + "years old" ) #------>TypeError: unsupported operand type(s) for +: 'int' and 'str'
 nous pouvons pas faire cete operation entre un strign et Number. pour resoudre ce problem 
 on va mettre le mot (str)deveant le variable pour excuter cette operation 
