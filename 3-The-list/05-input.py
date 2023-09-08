@@ -1,7 +1,7 @@
 
 #nous allons voir les input et leurs fonctionnalite dans le langage python
 
-name1 = input('what is your name : ')
+name1 = input('what is your first name : ')
 #on demande a l'utilisateur d'entrer une chaine de caractere (string)
 age = input(' your age : ')
 print('welcome agin ' + name1) 
