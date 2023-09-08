@@ -6,7 +6,7 @@
 #l'addition, la soustraction, la division , la multiplication et le module %
 #Exemple :
 
-print(type(5)) #----> <class 'int'>
+print(type(7)) #----> <class 'int'>
 
 print(type(5.5))#-----><class 'float'>
 
