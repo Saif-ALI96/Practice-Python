@@ -23,7 +23,7 @@ print(min(-1,-2)) #----> (-2)
 # Cette fonction renvoie le maximum ou minimum des valeurs passées en paramètres
 
 
-print(abs(-1)) # ---> nous aurons le chiffre positive (+1)
+print(abs(-3)) # ---> nous aurons le chiffre positive (+1)
 print(abs(+1)) #---> nous aurons le chiffre positif (+1)
 print(abs(0)) #---> nous aurons le chiffre nulle (0)
 
