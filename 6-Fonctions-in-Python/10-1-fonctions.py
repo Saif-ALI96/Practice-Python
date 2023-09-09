@@ -17,8 +17,8 @@
 # Cette instruction permet de renvoyer une valeur à partir de notre fonction.
 
 #par exemple
-def myFunction(x,y):
-    sum = x + y
+def myFunction(A,B):
+    sum = A + B
     print(sum)
 myFunction(6,8) # ---> 14
 
