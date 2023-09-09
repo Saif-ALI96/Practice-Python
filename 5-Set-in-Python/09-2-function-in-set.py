@@ -20,8 +20,9 @@ print(num1|num2) # une autre maniere pour fussionner les sets
 
 test = {10,'python',25}
 
-test.update([67,65,23]) # on puet ajouter plusieurs elements en meme temps
-# -----> {65, 67, 10, 'python', 23, 25}
+test.update([67,65,23])
+ # on puet ajouter plusieurs elements en meme temps  -----> {65, 67, 10, 'python', 23, 25}
+ 
 #A.add(67)
 # c'est la meme chose que .update() mais, on peut ajouter un seul element seulement 
 # avec parantheses [] pour ajouter un element 
