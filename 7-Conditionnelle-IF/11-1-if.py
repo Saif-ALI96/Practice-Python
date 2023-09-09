@@ -13,12 +13,12 @@ if x < y:
     print('y is greater than x') 
     #------> y is greater than x
 
-test = True
-if test == True:
+test1 = True
+if test1 == True:
     print("test is correct")
     #---> test is correct
 
-if test: # une maniere in python te dire c'est vrai 
+if test1: # une maniere in python te dire c'est vrai 
     print ("test is true ")
     #---> test is true
 
