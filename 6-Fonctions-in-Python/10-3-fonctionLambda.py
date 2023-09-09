@@ -23,7 +23,8 @@ qu'on veut utiliser une fonction dans un contexte où il n'y aura
 jamais besoin d'enregistrer le résultat dans une variable ou passer par l'appel à une autre
 fonction..
 Par exemple :
-```python
+```
+python
  
 double = (lambda x:x*2) # on définit double comme ét
 ant une lambda expression avec paramètre x
