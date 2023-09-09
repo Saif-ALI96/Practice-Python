@@ -21,10 +21,11 @@ print ("the value returned by this funtion",sum(47896,65432))
 
 #exercis 1
 
-'''def calecDay(age):
+'''
+def calecDay(age):
     return str(age * 365)
-print(calecDay(26)) 
-# -----> 9490'''
+print(calecDay(26))  -----> 9490
+'''
 
 #exercice 2-1
 def calcuHours(age):
